@@ -5,10 +5,13 @@ oduct performance, customer behavior, and operational efficiency.
 This analysis can help inform strategic decisions for improving sales and operational processes.
 
 ## Primary Objectives
-Sales Analysis: Identify trends in sales over time, including peak sales periods and seasonal variations.
-Product Performance: Evaluate the popularity of different pizza types and toppings to inform menu decisions.
-Customer Insights: Analyze customer purchasing behavior, including order frequency and average order values.
-Operational Efficiency: Assess kitchen performance metrics such as order preparation times and delivery efficiency.
+#### Sales Analysis:  Identify trends in sales over time, including peak sales periods and seasonal variations.
+
+#### Product Performance:  Evaluate the popularity of different pizza types and toppings to inform menu decisions.
+
+#### Customer Insights:  Analyze customer purchasing behavior, including order frequency and average order values.
+
+#### Operational Efficiency:  Assess kitchen performance metrics such as order preparation times and delivery efficiency.
 
 ## Key Learnings from the Pizza Sales Analysis Project 
 #### Data Analysis with SQL:
